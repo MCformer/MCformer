@@ -17,21 +17,20 @@
 
 <img src = "./images/result.png" align="left">
 
- ### 3.实验数据集获取(训练集、测试集)
+ ### 3.实验数据集获取(训练集)
 
-| 数据集       | Rain200H                                                     | Rain200L                                                     | DID-Data                                                     | DDN-Data                                                     |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 百度网盘链接 | [Rain200H]( https://pan.baidu.com/s/1bflXtTmKQICGsUluu_kxCA?pwd=hrir  ) | [Rain200L](https://pan.baidu.com/s/1EbZXPgIqbsIxWVXQ3v3EIg?pwd=6nnt  ) | [DID-Data](https://pan.baidu.com/s/1AMOgCEBp-jTDUuy6jXsGbw?pwd=arua  ) | [DDN-Data](https://pan.baidu.com/s/1NNJxhRXY5NGgYlmBa27nnw?pwd=3fpw ) |
-
-
+| 数据集               | Rain200H                                                     | Rain200L                                                     | DID-Data                                                     | DDN-Data                                                     |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 百度网盘链接(训练集) | [Rain200H]( https://pan.baidu.com/s/1Oh84iJIktJQofnCi4iwAnw?pwd=99ab ) | [Rain200L]( https://pan.baidu.com/s/1maT3mzbrUg_omOyNRj0DPg?pwd=99ab   ) | [DID-Data](https://pan.baidu.com/s/190ozQ8lB4y54bZpOnsmtQg?pwd=99ab  ) | [DDN-Data](https://pan.baidu.com/s/1wjp8KojnPaufzsL7hblQvw?pwd=99ab ) |
+| 百度网盘链接(验证集) | [Rain200H](https://pan.baidu.com/s/1_L2BlD9LgIsToNZ1ZZESRA?pwd=99ab) | [Rain200L]( https://pan.baidu.com/s/1N0wDvIW27LaYRsQXNf35-w?pwd=99ab]) | [DID-Data](https://pan.baidu.com/s/16ZlbyNlzPGMjTkmA0jc4ug?pwd=99ab) | [DDN-Data](https://pan.baidu.com/s/1v5dl-l_funWlV3ZG6XvKSg?pwd=99ab) |
 
 
 
 ### 4.实验处理结果获取(测试集、MCformer处理后结果)
 
-| 数据集       | Rain200H                                                     | Rain200L                                                     | DID-Data                                                     | DDN-Data                                                     |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 百度网盘链接 | [Rain200H]( https://pan.baidu.com/s/1a5MtD_0zEoC-T8xpnidizg?pwd=simv ) | [Rain200L](https://pan.baidu.com/s/1dr5oQanKXWQ-F6rBstT2uA?pwd=d7ix 提取码: d7ix) | [DID-Data](https://pan.baidu.com/s/1f2kfIE7EMDE3iWm2r3IwbA?pwd=vjm7 ) | [DDN-Data](https://pan.baidu.com/s/1F5sBa5ZMQ7s2o9FENVvoEA?pwd=bimb) |
+| 数据集               | Rain200H                                                     | Rain200L                                                     | DID-Data                                                     | DDN-Data                                                     |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 百度网盘链接(结果集) | [Rain200H]( https://pan.baidu.com/s/1EmjMfQgjNbK2p_ry5lRE-g?pwd=99ab ) | [Rain200L](https://pan.baidu.com/s/1_x1FiTfJCN_f-rcQsMXn0A?pwd=99ab) | [DID-Data]( https://pan.baidu.com/s/1-jDzf5atqy-g3wc9ToaPjg?pwd=99ab) | [DDN-Data](https://pan.baidu.com/s/1qfz8ZInXZjtPKxZhC5uTSA?pwd=99ab) |
 
   
 
